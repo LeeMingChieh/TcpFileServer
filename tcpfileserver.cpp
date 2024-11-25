@@ -1,4 +1,5 @@
 ﻿#include "tcpfileserver.h"
+#include "tcpfilesender.h"
 #define tr QStringLiteral
 
 TcpFileServer::TcpFileServer(QWidget *parent)
